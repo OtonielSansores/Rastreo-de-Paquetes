@@ -1,0 +1,7 @@
+C:\Users\otoniel.sansores\source\repos\Rastreo de Paquetes\Rastreo de Paquetes\bin\Debug\Rastreo de Paquetes.exe.config
+C:\Users\otoniel.sansores\source\repos\Rastreo de Paquetes\Rastreo de Paquetes\bin\Debug\Rastreo de Paquetes.exe
+C:\Users\otoniel.sansores\source\repos\Rastreo de Paquetes\Rastreo de Paquetes\bin\Debug\Rastreo de Paquetes.pdb
+C:\Users\otoniel.sansores\source\repos\Rastreo de Paquetes\Rastreo de Paquetes\obj\Debug\Rastreo de Paquetes.csprojAssemblyReference.cache
+C:\Users\otoniel.sansores\source\repos\Rastreo de Paquetes\Rastreo de Paquetes\obj\Debug\Rastreo de Paquetes.csproj.CoreCompileInputs.cache
+C:\Users\otoniel.sansores\source\repos\Rastreo de Paquetes\Rastreo de Paquetes\obj\Debug\Rastreo de Paquetes.exe
+C:\Users\otoniel.sansores\source\repos\Rastreo de Paquetes\Rastreo de Paquetes\obj\Debug\Rastreo de Paquetes.pdb
